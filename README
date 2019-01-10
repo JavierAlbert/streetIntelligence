@@ -1,5 +1,0 @@
-# This projects deals with 2 datasets related to public and private transportation. 
-
-In the first section (Improving_ETA) we do a deep exploration of ETA estimation in order to succesfully improve the current benchmark. We do feature generation and we apply several Classification, Reggression and ensemble models.
-
-The second project (Fare_prediction) looks at a different dataset in order to make accurate Fare predictions of taxi rides.
